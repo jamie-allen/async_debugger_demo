@@ -1,5 +1,5 @@
 #How to use the Async Debugger
-This is a simple little project that creates five actors that represent animals on a farm.  When an animal receives a message to speak, they log what they are told to say, which could be one of five possible statements.  A dog might say "Moo", a sheep might say "Meow".  The point is that any of the animal actors could receive a message to say any one of the possible utterances.  We can use Async Debugger to look at where the message comes from.
+This is a simple little project that creates five actors that represent animals on a farm.  When an animal receives a message to speak, they log what they are told to say, which could be one of five possible statements.  A dog might say "Moo", a sheep might say "Meow".  The point is that any of the animal actors could receive a message to say any one of the possible utterances.  We can use Async Debugger to look at where the message comes from.  When we look at the actor who sent that message, we can see what they were told to say prior to sending their own message.
 
 ##Getting Started
 Clone this project to your local machine
