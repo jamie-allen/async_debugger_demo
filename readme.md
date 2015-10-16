@@ -9,13 +9,13 @@ Download [Scala IDE v4.2 or later](http://scala-ide.org/download/sdk.html)
 Start Eclipse
 
 Switch to the Debug perspective
-1. Go to Window menu
-2. Select "Open Perspective" menu item and select "Debug" below that
+* Go to Window menu
+* Select "Open Perspective" menu item and select "Debug" below that
 
 Add the Async Stack tab to your Eclipse panes
-1. Go to Window menu
-2. Select "Show View" menu item and the nested "Other" menu item below that
-3. Select "Scala", and "Async Stack" below that
+* Go to Window menu
+* Select "Show View" menu item and the nested "Other" menu item below that
+* Select "Scala", and "Async Stack" below that
 
 Open the CrazyFarm.scala source file
 
